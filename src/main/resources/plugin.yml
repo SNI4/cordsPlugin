@@ -1,0 +1,8 @@
+name: abCords
+version: '${project.version}'
+main: me.sn1ch.abCords
+api-version: 1.16
+load: STARTUP
+authors: [ sn1ch ]
+description: Show player coordinates in action bar
+
